@@ -1,0 +1,20 @@
+{
+  "name": "ecommerceAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sam-soft/ecommerceAPI.git",
+  "author": "Sam Soft <samsoft039@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "crypto.js": "^3.0.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
